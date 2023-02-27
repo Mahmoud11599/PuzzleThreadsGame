@@ -1,0 +1,12 @@
+C:\Users\yasin\source\repos\OS project Summer\OS project Summer\bin\Debug\OS project Summer.exe.config
+C:\Users\yasin\source\repos\OS project Summer\OS project Summer\bin\Debug\OS project Summer.exe
+C:\Users\yasin\source\repos\OS project Summer\OS project Summer\bin\Debug\OS project Summer.pdb
+C:\Users\yasin\source\repos\OS project Summer\OS project Summer\obj\Debug\OS project Summer.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\OS project Summer\OS project Summer\obj\Debug\OS_project_Summer.Form1.resources
+C:\Users\yasin\source\repos\OS project Summer\OS project Summer\obj\Debug\OS_project_Summer.Properties.Resources.resources
+C:\Users\yasin\source\repos\OS project Summer\OS project Summer\obj\Debug\OS project Summer.csproj.GenerateResource.cache
+C:\Users\yasin\source\repos\OS project Summer\OS project Summer\obj\Debug\OS project Summer.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\OS project Summer\OS project Summer\obj\Debug\OS project Summer.exe
+C:\Users\yasin\source\repos\OS project Summer\OS project Summer\obj\Debug\OS project Summer.pdb
+C:\Users\yasin\source\repos\OS project Summer\OS project Summer\obj\Debug\OS_project_Summer.Form2.resources
+C:\Users\yasin\source\repos\OS project Summer\OS project Summer\obj\Debug\OS_project_Summer.Form3.resources
